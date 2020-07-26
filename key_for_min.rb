@@ -3,8 +3,7 @@
 
 def key_for_min_value(name_hash)
   hash.each do |value, key|
-    answer_key = ""
-    if value < 100
+    if value <
       key
     end
 end
